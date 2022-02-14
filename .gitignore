@@ -1,0 +1,9 @@
+## Folders
+node_modules
+.cache
+dist
+build
+
+## Files
+*.code-workspace
+yarn-error.log
